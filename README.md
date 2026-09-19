@@ -26,3 +26,7 @@ research-lit-tool/
 ├── data/        # Sample papers / test data
 └── README.md
 ```
+
+## Contributors
+Shenbagasri K (Research)
+Swetha Chandrasekar - Github: @swetha-codes

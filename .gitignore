@@ -9,7 +9,7 @@ __pycache__/
 # Environment variables (API keys etc.)
 .env
 
-# VS Code settings (optional, personal preference)
+# VS Code settings 
 .vscode/
 
 # OS files
